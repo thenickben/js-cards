@@ -1,0 +1,19 @@
+{
+  "name": "js-cards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thenickben/js-cards.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thenickben/js-cards/issues"
+  },
+  "homepage": "https://github.com/thenickben/js-cards#readme"
+}
